@@ -15,7 +15,7 @@
 <meta property="og:url" content="https://wwwqqqzzz.github.io/" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="王王王的博客"/>
+<meta name="twitter:title" content="王王的博客"/>
 <meta name="twitter:description" content=""/>
 
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
