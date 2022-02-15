@@ -25,7 +25,7 @@
 	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
 	<link rel="shortcut icon" href="/favicon.ico">
 
-	<title>王王王的博客</title>
+	<title>王</title>
 	<link rel="alternate" type="application/rss+xml" href="https://wwwqqqzzz.github.io/index.xml" title="王王王的博客" />
 	<link rel="stylesheet" href="https://wwwqqqzzz.github.io/css/style.min.eac77496566fd7d5768fd650ddb0b2b181ca6a2d7c5fdd6fe6b8ba4bf47e566f.css" integrity="sha256-6sd0llZv19V2j9ZQ3bCysYHKai18X91v5ri6S/R+Vm8=" crossorigin="anonymous">
 	
